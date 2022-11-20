@@ -8,4 +8,4 @@
 We have built multiple learning based models for Classification on Sequential data (ECG) to detect the probability of heart disease. Ensemble Learning, Support Vector Machines, Bernoulli Nave Bayes, K Nearest Neighbor, and the Random Forest Classifier are explored in great depth for our classification task
 
 ## Medium Article
-
+https://medium.com/@nandangrover/learning-based-models-for-classification-c21513e14621
